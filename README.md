@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @KonstantinEndovitskii
+- 👀 I’m interested in QA
+- 🌱 I’m currently learning java
+- 💞️ I’m looking to collaborate on anything
+- 📫 How to reach me endovitsky.k.p@gmail.com
